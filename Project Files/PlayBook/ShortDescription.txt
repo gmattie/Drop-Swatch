@@ -1,0 +1,18 @@
+About:
+
+Drop Swatch is a sophisticated, intuitive and multipurpose application used to cultivate and further advance the artistic endeavours of creative minds.
+
+Explore unlimited hues and develop your color pallet with several color modes and texture options.
+
+Instructions:
+
+1.  Double tap canvas to drop new swatch.
+2.  Drag, zoom and rotate swatches with common gestures.
+3.  Single tap swatch to edit color and/or texture.
+4.  Push swatches off screen to remove.
+
+
+
+Copyright © 2011 Geoffrey Mattie
+Montréal, Canada
+info@geoffreymattie.com
